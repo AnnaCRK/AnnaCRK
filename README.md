@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anna Karsten</h1>
 <h3 align="center">A junior Front-End Developer based in the Netherlands</h3>
 
+- 🔭 I’ve recently graduated from **the Le Wagon full-stack development bootcamp, March 2024**
+
 - 🌱 I’m currently learning **Ruby, Ruby on Rails, JavaScript, React**
+
+- 🤝 I’m looking for help with **finding my first job in front-end**
+
+- 💬 Ask me about **my experience doing an intentsive bootcamp**
 
 - 📫 How to reach me **anna-karsten@hotmail.com**
 
