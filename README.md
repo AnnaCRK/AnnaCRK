@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **anna-karsten@hotmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/anna_/OneDrive/Bureaublad/Resume%20Anna%20Karsten%20(5).pdf](file:///C:/Users/anna_/OneDrive/Bureaublad/Resume%20Anna%20Karsten%20(5).pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anna-karsten-875a04115/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anna-karsten-875a04115/" height="30" width="40" /></a>
